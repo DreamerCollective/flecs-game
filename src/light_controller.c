@@ -1,4 +1,4 @@
-#include <flecs_game.h>
+#include <flecs/flecs-game/include/flecs_game.h>
 
 static
 void LightControllerSyncPosition(ecs_iter_t *it) {

@@ -18,15 +18,15 @@
 #define FLECS_GAME_BAKE_CONFIG_H
 
 /* Headers of public dependencies */
-#include <cglm.h>
-#include <flecs.h>
-#include <flecs_components_input.h>
-#include <flecs_components_graphics.h>
-#include <flecs_components_gui.h>
-#include <flecs_components_transform.h>
-#include <flecs_components_geometry.h>
-#include <flecs_components_physics.h>
-#include <flecs_systems_physics.h>
+#include <cglm/include/cglm/cglm.h>
+#include <../../flecs/flecs.h>
+#include <../../flecs-components-input/include/flecs_components_input.h>
+#include <../../flecs-components-graphics/include/flecs_components_graphics.h>
+#include <../../flecs-components-gui/include/flecs_components_gui.h>
+#include <../../flecs-components-transform/include/flecs_components_transform.h>
+#include <../../flecs-components-geometry/include/flecs_components_geometry.h>
+#include <../../flecs-components-physics/include/flecs_components_physics.h>
+#include <../../flecs-systems-physics/include/flecs_systems_physics.h>
 
 /* Convenience macro for exporting symbols */
 #ifndef flecs_game_STATIC

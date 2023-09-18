@@ -1,4 +1,4 @@
-#include <flecs_game.h>
+#include <flecs/flecs-game/include/flecs_game.h>
 
 #define CAMERA_DECELERATION 100.0
 #define CAMERA_ANGULAR_DECELERATION 5.0

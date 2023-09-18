@@ -1,6 +1,6 @@
 #define FLECS_GAME_IMPL
 
-#include <flecs_game.h>
+#include <flecs/flecs-game/include/flecs_game.h>
 
 #define VARIATION_SLOTS_MAX (20)
 

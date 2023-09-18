@@ -1,4 +1,4 @@
-#include <flecs_game.h>
+#include <flecs/flecs-game/include/flecs_game.h>
 
 ECS_DECLARE(EcsWorldCell);
 ECS_DECLARE(EcsWorldCellRoot);
